@@ -1,4 +1,4 @@
-"# MachineLearning_Malaria" 
+# MachineLearning_Malaria
 
 
 A malária é uma doença infecciosa provocada por um protozoário parasitário, tendo infectado 219 milhôes de pessoas e provocado 435.000 mortes em 2017 (ONU:WHO-2017). Em regiões subdesenvolvidas ela é especialmente grave, sendo umas principais razôes de mortes, apesar dos esforõs da ONU-WHO que contou com um orçamento de 3.1 bilhões de dólares.
